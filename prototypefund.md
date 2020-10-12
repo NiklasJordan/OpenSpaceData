@@ -1,6 +1,6 @@
 # Bewerbung für Prototype Fund (Runde 9)
 
-> In diesem Dokument habe ich einige zusätzliche Informationen zu meiner Bewerbung gesammelt. Solltest Du noch Fragen zu meinem Projekt, zu dem Nutzen oder Erdbeobachtung im Allgemeinen hast, kontaktiere mich gerne jederzeit.
+> In diesem Dokument habe ich einige zusätzliche Informationen zu meiner Bewerbung gesammelt. Solltest Du noch Fragen zu meinem Projekt, dem gesellschaftlichem Nutzen oder Erdbeobachtung im Allgemeinen hast, kontaktiere mich gerne jederzeit.
 
 OpenSpaceData.org demokratisiert Satellitendaten. Ziel des Projekts ist es, eine Suche bereitzustellen, die das Finden von Daten für alle – unabhängig von technischen und fachlichen Kenntnissen – erleichtert. Dafür sollen frei verfügbare Satellitendaten, wie die der ESA oder NASA, zentralisiert auf OSD zusammenlaufen, um über eine Suchmaske den Zugang zu diesen zu erleichtern. Das Tool übersetzt die Anfrage des Nutzers in die passenden Parameter des Satellitenprogramms. Egal, ob Einzelpersonen (Journalisten, Wissenschaftler, Interessierte) oder Zusammenschlüsse (Initiativen, Vereine): Der Zugriff auf die Daten und die Nutzung dieser erhöht die demokratische Teilhabe an der Gesellschaft.
 
