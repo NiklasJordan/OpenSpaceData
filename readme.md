@@ -4,7 +4,7 @@
     Democratize satellite data!
 </p>
 
-> PrototypeFund? Dann habe ich noch einige [weitere Infos für Dich](prototypefund.md).
+> Du bist vom Prototype Fund? Dann habe ich noch einige [ergänzende Infos zu meiner Bewerbung](prototypefund.md) für Dich.
 
 ## Table of Contents
 
